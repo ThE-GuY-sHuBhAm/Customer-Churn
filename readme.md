@@ -235,13 +235,3 @@ git checkout -b feature/my-improvement
 - Matplotlib, NumPy, Pandas for data and plots
 
 ---
-
-## Screenshots (optional)
-
-Add screenshots here (update paths as needed):
-
-```
-![Dashboard – Model Info](images/dashboard-1.png)
-![Dashboard – Batch Scoring](images/dashboard-2.png)
-![Dashboard – Single Prediction](images/dashboard-3.png)
-```
