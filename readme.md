@@ -14,7 +14,6 @@ This project is designed for rapid deployment on Streamlit Community Cloud and r
 - [Model Overview](#model-overview)
 - [Data Inputs and Schema](#data-inputs-and-schema)
 - [Local Setup](#local-setup)
-- [Deploy on Streamlit Community Cloud](#deploy-on-streamlit-community-cloud)
 - [How to Use the App](#how-to-use-the-app)
   - [Single Prediction](#single-prediction)
   - [Batch Scoring](#batch-scoring)
@@ -26,7 +25,6 @@ This project is designed for rapid deployment on Streamlit Community Cloud and r
 - [Troubleshooting](#troubleshooting)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ---
@@ -48,7 +46,7 @@ This project is designed for rapid deployment on Streamlit Community Cloud and r
 
 ## Live Demo
 
-- Streamlit: https://share.streamlit.io/ThE-GuY-sHuBhAm/churn-streamlit/main/app.py
+- [Live App](https://predictpulse-churninsights.streamlit.app/)
 
 ---
 
