@@ -54,13 +54,13 @@ This project is designed for rapid deployment on Streamlit Community Cloud and r
 
 ```
 .
-├── app.py                                                          # Streamlit application
-├── data_cleaning_plus_eda_plus_feature_engineering.ipynb           # Performed data cleaning, EDA and feature engineering
-├── model_development.ipynb                                         # Model development was done
-├── baseline_model.pkl                                              # Trained scikit-learn Pipeline (preprocessor + classifier)
-├── requirements.txt                                                # Python dependencies (pinned for reproducibility)
-├── runtime.txt                                                     # Pin Python version on Streamlit Cloud (e.g., python-3.11.9)
-├── README.md                                                       # This file
+├── app.py                                                      # Streamlit application
+├── data_cleaning_plus_eda_plus_feature_engineering.ipynb       # Performed data cleaning, EDA and feature engineering
+├── model_development.ipynb                                     # Model development was done
+├── baseline_model.pkl                                          # Trained scikit-learn Pipeline (preprocessor + classifier)
+├── requirements.txt                                            # Python dependencies (pinned for reproducibility)
+├── runtime.txt                                                 # Pin Python version on Streamlit Cloud (e.g., python-3.11.9)
+├── README.md                                                   # This file
 └── .gitignore
 ```
 ---
