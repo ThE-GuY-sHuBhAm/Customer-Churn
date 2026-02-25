@@ -1,4 +1,4 @@
-# 📉 Customer Churn Prediction Dashboard
+# 📉 Telecom Subscriber Churn Trend Prediction System
 
 A production‑ready Streamlit app that serves a trained scikit‑learn Pipeline (ColumnTransformer + Logistic Regression) to predict telecom customer churn, score datasets in batch, inspect model details, and generate SHAP explanations for transparency.
 
